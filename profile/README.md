@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/A-I-M-S/.github/blob/main/clogo.png" width="120" height="120" alt="A.I.M.S.">
+  <img src="https://github.com/A-I-M-S/.github/blob/master/clogo.png" width="120" height="120" alt="A.I.M.S.">
 </p>
 
 <h1 align="center">Web-сервис мониторинга и анализа информации для закупочной и договорной деятельности АЭС</h1>
